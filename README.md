@@ -1,5 +1,4 @@
-# Aesthetica-website
-
+# Aesthetica
 This is a website for Aesthetica, featuring photography, art and design, film, and music. The website includes information on the work of photographer Saul Leiter and his use of color photography.
 
 ### Images
